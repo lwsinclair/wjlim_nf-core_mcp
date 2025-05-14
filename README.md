@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-wjlim-nf-core-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-wjlim-nf-core-mcp)
+
 # nf-core MCP Server
 
 An MCP server for managing and navigating nf-core pipeline repositories.
